@@ -9,3 +9,5 @@ Maze generation with Prims Algorithm was tricky, instead of treating the entire 
 Pathfinding is done with the manhattan distance heuristic and suppports diagnal movement so it will solve the grid fast if there are no obstacles. 
 
 CSS animations on each node disable the ability for the user to interact with it, so the grid is user protected whenever an algorithm is being preformed.
+
+![alt text](https://github.com/tbreese2/Maze-Pathfinding/blob/main/Pathfinding.jpg)
